@@ -1,0 +1,9 @@
+C:\Ahson\Playground\FileUpload\FileUpload.Model\bin\Debug\netcoreapp3.1\FileUpload.Model.deps.json
+C:\Ahson\Playground\FileUpload\FileUpload.Model\bin\Debug\netcoreapp3.1\FileUpload.Model.dll
+C:\Ahson\Playground\FileUpload\FileUpload.Model\bin\Debug\netcoreapp3.1\FileUpload.Model.pdb
+C:\Ahson\Playground\FileUpload\FileUpload.Model\obj\Debug\netcoreapp3.1\FileUpload.Model.csprojAssemblyReference.cache
+C:\Ahson\Playground\FileUpload\FileUpload.Model\obj\Debug\netcoreapp3.1\FileUpload.Model.AssemblyInfoInputs.cache
+C:\Ahson\Playground\FileUpload\FileUpload.Model\obj\Debug\netcoreapp3.1\FileUpload.Model.AssemblyInfo.cs
+C:\Ahson\Playground\FileUpload\FileUpload.Model\obj\Debug\netcoreapp3.1\FileUpload.Model.csproj.CoreCompileInputs.cache
+C:\Ahson\Playground\FileUpload\FileUpload.Model\obj\Debug\netcoreapp3.1\FileUpload.Model.dll
+C:\Ahson\Playground\FileUpload\FileUpload.Model\obj\Debug\netcoreapp3.1\FileUpload.Model.pdb
